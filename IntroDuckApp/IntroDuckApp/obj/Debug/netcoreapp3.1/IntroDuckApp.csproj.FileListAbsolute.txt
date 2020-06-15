@@ -1,0 +1,13 @@
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.AssemblyInfoInputs.cache
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.AssemblyInfo.cs
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\bin\Debug\netcoreapp3.1\IntroDuckApp.exe
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\bin\Debug\netcoreapp3.1\IntroDuckApp.deps.json
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\bin\Debug\netcoreapp3.1\IntroDuckApp.runtimeconfig.json
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\bin\Debug\netcoreapp3.1\IntroDuckApp.runtimeconfig.dev.json
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\bin\Debug\netcoreapp3.1\IntroDuckApp.dll
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\bin\Debug\netcoreapp3.1\IntroDuckApp.pdb
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.dll
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.pdb
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.genruntimeconfig.cache
+C:\Users\vaibhav\source\repos\designpatterns\IntroDuckApp\IntroDuckApp\obj\Debug\netcoreapp3.1\IntroDuckApp.csprojAssemblyReference.cache
