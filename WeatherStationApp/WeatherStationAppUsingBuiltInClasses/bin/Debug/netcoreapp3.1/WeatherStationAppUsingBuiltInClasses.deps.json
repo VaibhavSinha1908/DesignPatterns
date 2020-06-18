@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherStationAppUsingBuiltInClasses/1.0.0": {
+        "runtime": {
+          "WeatherStationAppUsingBuiltInClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherStationAppUsingBuiltInClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

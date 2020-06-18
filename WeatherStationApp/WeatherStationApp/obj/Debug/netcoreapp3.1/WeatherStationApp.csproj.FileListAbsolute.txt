@@ -1,0 +1,13 @@
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\bin\Debug\netcoreapp3.1\WeatherStationApp.exe
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\bin\Debug\netcoreapp3.1\WeatherStationApp.deps.json
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\bin\Debug\netcoreapp3.1\WeatherStationApp.runtimeconfig.json
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\bin\Debug\netcoreapp3.1\WeatherStationApp.runtimeconfig.dev.json
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\bin\Debug\netcoreapp3.1\WeatherStationApp.dll
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\bin\Debug\netcoreapp3.1\WeatherStationApp.pdb
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.csprojAssemblyReference.cache
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.csproj.CoreCompileInputs.cache
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.AssemblyInfoInputs.cache
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.AssemblyInfo.cs
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.dll
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.pdb
+C:\Users\vaibhav\source\repos\designpatterns\WeatherStationApp\WeatherStationApp\obj\Debug\netcoreapp3.1\WeatherStationApp.genruntimeconfig.cache
